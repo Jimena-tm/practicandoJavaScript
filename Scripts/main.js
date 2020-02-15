@@ -22,7 +22,7 @@ function triangulo (b,a) {
     return (b * a) / 2
 }
 
-console.log(triangulo (b,a));
+console.log(triangulo (5,4));
 
 
 
