@@ -18,7 +18,11 @@ function area (b,a) {
 console.log(area (7,3));
 
 /*Calcular el area de un triangulo*/
-function triangulo (b,a)
+function triangulo (b,a) {
+    return (b * a) / 2
+}
+
+console.log(triangulo (b.a));
 
 
 
