@@ -17,6 +17,8 @@ function area (b,a) {
 }
 console.log(area (7,3));
 
+/*Calcular el area de un triangulo*/
+function triangulo (b,a)
 
 
 
