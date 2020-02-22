@@ -21,8 +21,21 @@ console.log(area (7,3));
 function triangulo (b,a) {
     return (b * a) / 2
 }
-
 console.log(triangulo (5,4));
+
+/*Calcular el area de una circunferencia*/
+function circunferencia (radio) {
+  
+    return Math.PI * Math.pow(radio,2);
+     
+    }
+
+    console.log(circunferencia (5));
+
+
+  
+
+  
 
 
 
